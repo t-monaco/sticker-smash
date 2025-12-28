@@ -15,19 +15,19 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#25292e',
-    alignItems: 'center',
-    justifyContent: 'center',
-    flexDirection: 'column',
-    gap: 22
+    backgroundColor: "#25292e",
+    alignItems: "center",
+    justifyContent: "center",
+    flexDirection: "column",
+    gap: 22,
   },
   text: {
-    color: '#fff',
+    color: "#fff",
     fontSize: 20,
   },
   button: {
     fontSize: 20,
-    textDecorationLine: 'underline',
-    color: '#fff',
+    textDecorationLine: "underline",
+    color: "#fff",
   },
 });
